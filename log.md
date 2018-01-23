@@ -14,7 +14,7 @@
 
 **Today's Goal**: Review Data structures and algorithms concepts
 
-**Today's Progress**: 
+**Today's Progress**: Runtime analysis. Solved Examples on Big-O notation from cracking from the coding interview.
 
-**Thoughts**:
+**Thoughts**: It helped fill gaps in my understanding of analysing runtime of algorithms. Need to increase solving speed. 
 
