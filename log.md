@@ -14,7 +14,15 @@
 
 **Today's Goal**: Review Data structures and algorithms concepts
 
-**Today's Progress**: Runtime analysis. Solved Examples on Big-O notation from cracking from the coding interview.
+**Today's Progress**: Runtime analysis. Solved 10 Examples on Big-O notation from cracking from the coding interview.
 
-**Thoughts**: It helped fill gaps in my understanding of analysing runtime of algorithms. Need to increase solving speed. 
+**Thoughts**: It helped fill gaps in my understanding of analysing runtime of algorithms. Need to increase solving speed.
+
+### Day 1: January 23, 2018
+
+**Today's Goal**: Solve 10 more examples on Big-O notation. Solve one challenge on python and start off with algorithms track on leetcode. 
+
+**Today's progress**:
+
+**Thoughts**:
 
