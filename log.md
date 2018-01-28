@@ -18,11 +18,17 @@
 
 **Thoughts**: It helped fill gaps in my understanding of analysing runtime of algorithms. Need to increase solving speed.
 
-### Day 1: January 23, 2018
+## Restarting 100 days of code
 
-**Today's Goal**: Solve 10 more examples on Big-O notation. Solve one challenge on python and start off with algorithms track on leetcode. 
+### Day 1: January 28, 2018
 
-**Today's progress**:
+**Today's Goal** : Solve 15 problems from cracking the coding interview. One hacker rank python challenge. 
+
+**Today's Progress**: 
 
 **Thoughts**:
+
+
+
+
 
