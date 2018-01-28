@@ -24,9 +24,9 @@
 
 **Today's Goal** : Solve 15 problems from cracking the coding interview. One hacker rank python challenge. 
 
-**Today's Progress**: 
+**Today's Progress**: Completed 10 problems in cracking the coding interview.  
 
-**Thoughts**:
+**Thoughts**: Taking a long time. Low confidence in the final answer that I arrive at. 
 
 
 
