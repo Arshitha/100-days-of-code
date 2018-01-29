@@ -32,7 +32,7 @@
 
 **Today's Goal**: One python challenge. 5 questions from cracking the coding interview. Learn about twitter APIs and how to use them. 
 
-**Today's Progress**: 
+**Today's Progress**: Finished one python challenge on Hacker Rank. 
 
 **Thoughts**:
 
