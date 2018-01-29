@@ -24,9 +24,17 @@
 
 **Today's Goal** : Solve 15 problems from cracking the coding interview. One hacker rank python challenge. 
 
-**Today's Progress**: Completed 10 problems in cracking the coding interview.  
+**Today's Progress**: Completed 10 problems in cracking the coding interview.  Finally completed the Day 17 python challenge on exceptions. 
 
-**Thoughts**: Taking a long time. Low confidence in the final answer that I arrive at. 
+**Thoughts**: Taking a long time. Low confidence in the final answer that I arrive at. More exceptions not fully understood. 
+
+### Day 2: January 29, 2018
+
+**Today's Goal**: One python challenge. 5 questions from cracking the coding interview. Learn about twitter APIs and how to use them. 
+
+**Today's Progress**: 
+
+**Thoughts**:
 
 
 
