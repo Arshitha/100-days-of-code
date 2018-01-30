@@ -32,9 +32,18 @@
 
 **Today's Goal**: One python challenge. 5 questions from cracking the coding interview. Learn about twitter APIs and how to use them. 
 
-**Today's Progress**: Finished one python challenge on Hacker Rank. 
+**Today's Progress**: Finished one python challenge on Hacker Rank. Researched about twitter APIs.
+
+**Thoughts**: Implementation of stacks and queues using lists in pyhton 3. Found an elaborate article on mining twitter data using the API. Implemented the code to collect tweets given the handle. 
+
+### Day 3: January 30, 2018
+
+**Today's Goal** : 10 questions from cracking the coding interview. Download images given a twitter handle. 
+
+**Today's Progress** :
 
 **Thoughts**:
+
 
 
 
