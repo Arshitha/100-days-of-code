@@ -40,9 +40,29 @@
 
 **Today's Goal** : 10 questions from cracking the coding interview. Download images given a twitter handle. 
 
-**Today's Progress** :
+**Today's Progress** : Did 5 problems from cracking the coding interview. Learnt how to work with APIs and Webhooks. https://www.youtube.com/watch?v=oBW_VNg4qD0
+
+**Thoughts**: None
+
+### Day 4:January 31, 2018
+
+**Today's Goal**: Download images given a twitter handle. 
+
+**Today's Progress**: Downloaded images using tweepy. Created a video from the downloaded images using ffmpeg after pre processing.
+
+**Thoughts**: It was fun to finally get it work. 
+
+### Day 5: February 1, 2018
+
+**Today's Goal**: Solve a programming problem from cracking the coding interview.
+
+**Today's Progress**: 
 
 **Thoughts**:
+
+
+
+
 
 
 
