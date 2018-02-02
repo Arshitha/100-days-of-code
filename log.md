@@ -56,7 +56,15 @@
 
 **Today's Goal**: Solve a programming problem from cracking the coding interview.
 
-**Today's Progress**: 
+**Today's Progress**: NONE
+
+**Thoughts**: NONE
+
+### Day 5: February 2, 2018
+
+**Today's Goal**: Solve a programming problem from cracking the coding interview.
+
+**Today's Progress**:
 
 **Thoughts**:
 
