@@ -60,7 +60,7 @@
 
 **Thoughts**: NONE
 
-### Day 5: February 2, 2018
+### Day 6: February 2, 2018
 
 **Today's Goal**: Solve a programming problem from cracking the coding interview.
 
