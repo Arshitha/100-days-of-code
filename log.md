@@ -78,6 +78,16 @@
 
 **Thoughts**: It was very simple. I just started off with it for motivation.
 
+### Day 2: February 15, 2018
+
+**Today's Goal**: Solve a problem on HackerRank. This one: https://www.hackerrank.com/challenges/ctci-merge-sort/problem
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+
+
 
 
 
