@@ -64,9 +64,19 @@
 
 **Today's Goal**: Solve a programming problem from cracking the coding interview.
 
-**Today's Progress**:
+**Today's Progress**: NONE 
 
-**Thoughts**:
+**Thoughts**: NONE
+
+## Restarting 100 days of code
+
+### Day 1: February 14, 2018
+
+**Today's Goal**: Solve a problem on HackerRank. 
+
+**Today's Progress**: Solved a Bubble sort challenge on HackerRank
+
+**Thoughts**: It was very simple. I just started off with it for motivation.
 
 
 
