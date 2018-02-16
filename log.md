@@ -82,9 +82,9 @@
 
 **Today's Goal**: Solve a problem on HackerRank. This one: https://www.hackerrank.com/challenges/ctci-merge-sort/problem
 
-**Today's Progress**: 
+**Today's Progress**: Couldn't finish the solution since I was too tired. However, I understood the Merge Sort algorithm pseudocode and the concept of counting inversions. 
 
-**Thoughts**: 
+**Thoughts**: Not good enough progress. 
 
 
 
