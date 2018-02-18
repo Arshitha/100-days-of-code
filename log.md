@@ -86,6 +86,31 @@
 
 **Thoughts**: Not good enough progress. 
 
+### Day 3: February 16, 2018
+
+**Today's Goal**: Solve a problem on HackerRank. This one: https://www.hackerrank.com/challenges/ctci-merge-sort/problem
+
+**Today's Progress**: Implemented merge sort since Inversion Count is a modified version of merge sort. 
+
+**Thoughts**: Good progress since I coded it by myself without using anything but the pseudocode. Debugging took a while coz of silly errors but it was fun.
+
+### Day 4: February 17, 2018
+
+**Today's Goal**: Solve a problem on HackerRank. This one: https://www.hackerrank.com/challenges/ctci-merge-sort/problem
+
+**Today's Progress**: Tried to modify merge sort but couldn't. So tried to coding using somebody else's code as a reference.    
+
+**Thoughts**: More of reverse engineering than thinking by myself. Not very happy. Doesn't work for large cases. So need a re design the algorithm. 
+
+### Day 5: February 18, 2018
+
+**Today's Goal**: Solve a problem on HackerRank. This one: https://www.hackerrank.com/challenges/ctci-merge-sort/problem
+
+**Today's Progress**: Understood the code completely and tried to play around with it. Doesn't work fo large test cases.     
+
+**Thoughts**: Not very happy. Spent an hour and half on it. Doesn't work for large cases. So need a re design the algorithm. 
+
+
 
 
 
