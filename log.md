@@ -108,7 +108,16 @@
 
 **Today's Progress**: Understood the code completely and tried to play around with it. Doesn't work fo large test cases.     
 
-**Thoughts**: Not very happy. Spent an hour and half on it. Doesn't work for large cases. So need a re design the algorithm. 
+**Thoughts**: Not very happy. Spent an hour and half on it. Doesn't work for large cases. So need a re design the algorithm.
+
+### Day 6: February 19, 2018
+
+**Today's Goal**: Finish Assignment 2 of EC500. Code review, unit testing and report presentation on webpage.
+
+**Today's Progress**: 
+
+**Thoughts**:  
+
 
 
 
