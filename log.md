@@ -114,9 +114,9 @@
 
 **Today's Goal**: Finish Assignment 2 of EC500. Code review, unit testing and report presentation on webpage.
 
-**Today's Progress**: 
+**Today's Progress**: Finished code reviewing and understanding the error cases. Code review complete.
 
-**Thoughts**:  
+**Thoughts**: Could have finished the whole thing. Trouble focussing due to personal life issues. Not cool. 
 
 
 
