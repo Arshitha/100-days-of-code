@@ -126,6 +126,15 @@
 
 **Thoughts**: Need to increase my speed. However, good practice debugging and fixing errors. And doing it by myself.
 
+### Day 8: February 21, 2018
+
+**Today's Goal**: Counting inversions debugging and left array rotations. 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
 
 
 
