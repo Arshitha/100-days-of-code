@@ -116,7 +116,16 @@
 
 **Today's Progress**: Finished code reviewing and understanding the error cases. Code review complete.
 
-**Thoughts**: Could have finished the whole thing. Trouble focussing due to personal life issues. Not cool. 
+**Thoughts**: Could have finished the whole thing. Trouble focussing. Not cool. 
+
+### Day 7: February 20, 2018
+
+**Today's Goal**: Finish Assignment 2 of EC500 and Counting Inversions code.
+
+**Today's Progress**: Finished redesgning the algorithm for counting inversions that follows directly from the Merge sort code. However, unable to test it on hacker rank. Not sure what's causing it. 
+
+**Thoughts**: Need to increase my speed. However, good practice debugging and fixing errors. And doing it by myself.
+
 
 
 
