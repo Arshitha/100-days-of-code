@@ -130,9 +130,24 @@
 
 **Today's Goal**: Counting inversions debugging and left array rotations. 
 
+**Today's Progress**: Runtime error taken care of in inversion counting. Couln't make it work on large inputs.  
+
+**Thoughts**: Spending a lot of time on just one problem. Left array rotations not done. Need to increase speed.
+
+### Day 9: February 22, 2018
+
+**Today's Goal**: Counting inversions and left array rotations. Catch up on backlog. 
+
 **Today's Progress**: 
 
 **Thoughts**:
+
+
+
+
+
+
+
 
 
 
