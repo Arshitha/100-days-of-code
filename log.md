@@ -138,9 +138,20 @@
 
 **Today's Goal**: Counting inversions and left array rotations. Catch up on backlog. 
 
-**Today's Progress**: 
+**Today's Progress**: Done debugging counting inversions and submitted. Finished left array rotations as well. 
 
-**Thoughts**:
+**Thoughts**: The speed is improving. Happy with today's progress. 
+
+### Day 10: February 23, 2018
+
+**Today's Goal**: Solve making anagrams problem on hackerrank. https://www.hackerrank.com/challenges/ctci-making-anagrams/problem 
+
+**Today's Progress**:  
+
+**Thoughts**:  
+
+
+
 
 
 
