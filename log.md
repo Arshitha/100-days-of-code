@@ -146,9 +146,19 @@
 
 **Today's Goal**: Solve making anagrams problem on hackerrank. https://www.hackerrank.com/challenges/ctci-making-anagrams/problem 
 
+**Today's Progress**: Algorithm runs in O(n^2) and therefore, not passing for large input cases. 
+
+**Thoughts**: Took me a while to figure it out. But not bad. I'm getting a hang of it. 
+
+### Day 11: February 23, 2018
+
+**Today's Goal**: Successfully submit making anagrams program.
+
 **Today's Progress**:  
 
-**Thoughts**:  
+**Thoughts**: 
+
+
 
 
 
