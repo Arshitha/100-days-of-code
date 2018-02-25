@@ -158,6 +158,16 @@
 
 **Thoughts**: Happy. 
 
+### Day 12: February 25, 2018
+
+**Today's Goal**: To solve this problem on hash tables: https://www.hackerrank.com/challenges/ctci-ransom-note/problem
+
+**Today's Progress**:  
+
+**Thoughts**:  
+
+
+
 
 
 
