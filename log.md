@@ -150,13 +150,13 @@
 
 **Thoughts**: Took me a while to figure it out. But not bad. I'm getting a hang of it. 
 
-### Day 11: February 23, 2018
+### Day 11: February 24, 2018
 
 **Today's Goal**: Successfully submit making anagrams program.
 
-**Today's Progress**:  
+**Today's Progress**:  Solved the problem in linear time by taking advantage of the discussion section. Successfully submitted. 
 
-**Thoughts**: 
+**Thoughts**: Happy. 
 
 
 
