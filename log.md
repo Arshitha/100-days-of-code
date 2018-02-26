@@ -162,9 +162,19 @@
 
 **Today's Goal**: To solve this problem on hash tables: https://www.hackerrank.com/challenges/ctci-ransom-note/problem
 
-**Today's Progress**:  
+**Today's Progress**: Done. Finished in less than 30 minutes. 
 
-**Thoughts**:  
+**Thoughts**: Even though it was simple, I can see that my speed is increasing gradually. 
+
+### Day 13: February 26, 2018
+
+**Today's Goal**: To solve this problem on hash tables: https://www.hackerrank.com/challenges/ctci-ransom-note/problem
+
+**Today's Progress**: Done. Finished in less than 30 minutes. 
+
+**Thoughts**: Even though it was simple, I can see that my speed is increasing gradually.
+
+
 
 
 
