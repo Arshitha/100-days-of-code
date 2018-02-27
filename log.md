@@ -170,9 +170,9 @@
 
 **Today's Goal**: To solve this problem on linked lists: https://www.hackerrank.com/challenges/ctci-linked-list-cycle/problem
 
-**Today's Progress**:  
+**Today's Progress**:  Just looked at the Linked List implementation. Didn't solve or brain storm.
 
-**Thoughts**: 
+**Thoughts**: Not good enough. 
 
 
 
