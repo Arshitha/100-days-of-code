@@ -174,6 +174,22 @@
 
 **Thoughts**: Not good enough. 
 
+### Day 14: February 27, 2018
+
+**Today's Goal**: To solve this problem on linked lists: https://www.hackerrank.com/challenges/ctci-linked-list-cycle/problem
+
+**Today's Progress**: Understood the logic and coded it in less than 30 minutes. Good speed. 
+
+**Thoughts**: I could have solved another challenge but didn't feel like. I can solve another problem of the same difficulty level. Good job nevertheless.
+
+### Day 15: February 28, 2018
+
+**Today's Goal**: To solve this problem on stacks: https://www.hackerrank.com/challenges/ctci-balanced-brackets/problem
+
+**Today's Progress**:  
+
+**Thoughts**: 
+
 
 
 
