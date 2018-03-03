@@ -186,13 +186,33 @@
 
 **Today's Goal**: To solve this problem on stacks: https://www.hackerrank.com/challenges/ctci-balanced-brackets/problem
 
-**Today's Progress**:  
+**Today's Progress**:  Read the problem and brainstormed a bit. Didn't code anything. 
+
+**Thoughts**: I was exhausted so didn't do much. 
+
+### Day 16: March 1st, 2018
+
+**Today's Goal**: To solve this problem on stacks: https://www.hackerrank.com/challenges/ctci-balanced-brackets/problem
+
+**Today's Progress**:  Finished the problem. Googled to understand and come up with logic and then coded it. Didn't take long to code. 
+
+**Thoughts**: Need to build aptitude to come up with logic. Will develop with over time. 
+
+### Day 17: March 2nd, 2018
+
+**Today's Goal**: To solve this problem on Lisa's Workbook: https://www.hackerrank.com/challenges/lisa-workbook/problem
+
+**Today's Progress**: I didn't look for the logic. Just coding with the algo that I came up with it. Still debugging. Couldn't complete it. 
+
+**Thoughts**: Need to increase speed while thinking about an algorithm and debbugging it. 
+
+### Day 18: March 3rd, 2018
+
+**Today's Goal**: To finish debuggin problem on Lisa's Workbook: https://www.hackerrank.com/challenges/lisa-workbook/problem and resume page editing
+
+**Today's Progress**: 
 
 **Thoughts**: 
-
-
-
-
 
 
 
