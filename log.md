@@ -210,7 +210,15 @@
 
 **Today's Goal**: To finish debuggin problem on Lisa's Workbook: https://www.hackerrank.com/challenges/lisa-workbook/problem and resume page editing
 
-**Today's Progress**: 
+**Today's Progress**: Finished debugging and submitted the code. Couldn't work on editing my portfolio page. 
+
+**Thoughts**: Motivation is draining. Need to rejuvenate. 
+
+### Day 19: March 4th, 2018
+
+**Today's Goal**: To solve this problem on queues: https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem. Finish researching on outreachy projects and understand how and what issue I can work on. 
+
+**Today's Progress**:  
 
 **Thoughts**: 
 
