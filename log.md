@@ -218,9 +218,19 @@
 
 **Today's Goal**: To solve this problem on queues: https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem. Finish researching on outreachy projects and understand how and what issue I can work on. 
 
-**Today's Progress**:  
+**Today's Progress**: Solved the problem on queues. Understand the objectives of the outreachy HOTOSM resusable map visualization project. 
 
-**Thoughts**: 
+**Thoughts**: Wasn't a very challenging problem since I solved it in O(n) instead O(1) and since it passed all of the test cases, I didn't go further. However, I have posted my doubt on the hackerrank discussions section for follow up.  
+
+### Day 20: March 5th, 2018
+
+**Today's Goal**: Solve a problem on trees: https://www.hackerrank.com/challenges/ctci-is-binary-search-tree/problem and post a list of user stories for the outreachy contribution repo. 
+
+**Today's Progress**: 
+
+**Thoughts**:  
+
+
 
 
 
