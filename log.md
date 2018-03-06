@@ -230,6 +230,14 @@
 
 **Thoughts**:  
 
+### Day 21: March 6th, 2018
+
+**Today's Goal**: Contribute to the HOTOSM project. 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
 
 
 
