@@ -226,17 +226,27 @@
 
 **Today's Goal**: Solve a problem on trees: https://www.hackerrank.com/challenges/ctci-is-binary-search-tree/problem and post a list of user stories for the outreachy contribution repo. 
 
-**Today's Progress**: 
+**Today's Progress**: Came up with a rough outline of the code. Hasn't passed any of the test cases. 
 
-**Thoughts**:  
+**Thoughts**: Was too lazy to pick up a book and a pencil to work out the logic. Instead tried working out the logic on the fly while coding. Was ineffective and inefficient. Spent more than required time unsucessfully. 
 
 ### Day 21: March 6th, 2018
 
 **Today's Goal**: Contribute to the HOTOSM project. 
 
+**Today's Progress**: TOOK A BREAK. DIDN'T CODE.
+
+**Thoughts**: TOOK A BREAK. DIDN'T CODE.
+
+### Day 22: March 7th, 2018
+
+**Today's Goal**: Contribute to the HOTOSM project and finish the trees challenge on hackerRank. 
+
 **Today's Progress**: 
 
 **Thoughts**: 
+
+
 
 
 
