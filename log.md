@@ -242,9 +242,29 @@
 
 **Today's Goal**: Contribute to the HOTOSM project and finish the trees challenge on hackerRank. 
 
+**Today's Progress**: Tried to figure out the trees challenge without googling. I could figure out how to traverse the tree using inOrder(L,C,R), preOrder (C,L,R) and postOrder traversal (L,R,C). However, I couldn't figure out the logic to check if it's a BST or not. Didn't contribute to HOTOSM. 
+
+**Thoughts**: Pretty slow. Personal life affecting productivity and focus. 
+
+### Day 23: March 8th, 2018
+
+**Today's Goal**: Finish the trees challenge on hackerRank. 
+
+**Today's Progress**: Submitted the code but didn't use recursion. That's what will be expected in the interviews. Googled the logic.
+
+**Thoughts**: Good job. Need to increase speed and efficiency.
+
+### Day 24: March 9th, 2018
+
+**Today's Goal**: Contribute to HOTOSM and figure out efficient algorithms for queues and BST checking. 
+
 **Today's Progress**: 
 
 **Thoughts**: 
+
+
+
+
 
 
 
