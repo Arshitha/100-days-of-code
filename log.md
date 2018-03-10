@@ -258,9 +258,18 @@
 
 **Today's Goal**: Contribute to HOTOSM and figure out efficient algorithms for queues and BST checking. 
 
+**Today's Progress**: Worked on a few challenges on HackerRank. Tried making BST work. Couldn't finish
+
+**Thoughts**: Unfocussed. Need to work on more problems. 
+
+### Day 25: March 10th, 2018
+
+**Today's Goal**: Contribute to HOTOSM and host the personal website. 
+
 **Today's Progress**: 
 
 **Thoughts**: 
+
 
 
 
