@@ -274,7 +274,7 @@
 
 **Today's Goal**: Making progress with my repo for HOTOSM. Solve a problem https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem
 
-**Today's Progress**: 
+**Today's Progress**: Brute force and hash method implemented. 
 
 **Thoughts**: 
 
