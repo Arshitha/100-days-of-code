@@ -264,7 +264,15 @@
 
 ### Day 25: March 10th, 2018
 
-**Today's Goal**: Contribute to HOTOSM and host the personal website. 
+**Today's Goal**: Understand MapboxGL and make a list of testable user stories. Figure more efficient algorithms for BST checking.  
+
+**Today's Progress**: Implemented an algorithm to check if a given tree is BST or not using recursion. Went through a little bit of Mapbox GL. Implemented an example map visualization. 
+
+**Thoughts**: Pretty good. However, if I can remain more focussed and for longer then I can make some significant contribution. 
+
+### Day 26: March 11th, 2018
+
+**Today's Goal**: Making progress with my repo for HOTOSM. Solve a problem https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem
 
 **Today's Progress**: 
 
