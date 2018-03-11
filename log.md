@@ -278,6 +278,15 @@
 
 **Thoughts**: 
 
+### Day 27: March 12th, 2018
+
+**Today's Goal**: Implement other methods for the TwoSum problem. HOTOSM.
+
+**Today's Progress**:  
+
+**Thoughts**: 
+
+
 
 
 
