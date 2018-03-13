@@ -274,17 +274,27 @@
 
 **Today's Goal**: Making progress with my repo for HOTOSM. Solve a problem https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem
 
-**Today's Progress**: Brute force and hash method implemented. 
+**Today's Progress**: Brute force and hash method implemented. Looked into Mapbox GL and implemented one of the examples. 
 
-**Thoughts**: 
+**Thoughts**: Pretty good. Gaining back the momentum that I started with. Also, realized that I'll have to spend a lot of time with Outreachy applications than I can afford to at the moment. So won't be making it a priority anymore.
 
 ### Day 27: March 12th, 2018
 
-**Today's Goal**: Implement other methods for the TwoSum problem. HOTOSM.
+**Today's Goal**: Implement other methods for the TwoSum problem.
 
-**Today's Progress**:  
+**Today's Progress**: Implemented a method that uses sorting and binary search. Solved an easy level challenge of fibonacci recurrence. 
 
-**Thoughts**: 
+**Thoughts**: Happy. Learnt to implement and understand binary search concept. 
+
+### Day 28: March 13th, 2018
+
+**Today's Goal**: Problem on Tries: https://www.hackerrank.com/challenges/ctci-contacts/problem
+
+**Today's Progress**: 
+
+**Thoughts**:  
+
+
 
 
 
