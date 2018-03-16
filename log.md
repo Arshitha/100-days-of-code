@@ -290,9 +290,47 @@
 
 **Today's Goal**: Problem on Tries: https://www.hackerrank.com/challenges/ctci-contacts/problem
 
-**Today's Progress**: 
+**Today's Progress**: Couldn't work on anything. TOOK A BREAK. DIDN'T CODE.
 
-**Thoughts**:  
+**Thoughts**: It was a legitimate reason. I wasn't well and had had a sleepness night the previos day.
+
+### Day 28: March 14th, 2018
+
+**Today's Goal**: Problem on Tries: https://www.hackerrank.com/challenges/ctci-contacts/problem
+
+**Today's Progress**: Implemented the adding contact method. Still need to work on the findContact method.  
+
+**Thoughts**: For the record, I made some progress. But my heart wasn't in it. I was partially procrastinating.
+
+### Day 29: March 15th, 2018
+
+**Today's Goal**: Problem on Tries: https://www.hackerrank.com/challenges/ctci-contacts/problem
+
+**Today's Progress**: Did something to swtich it up and gain back some enthu. I tried automating the task of sending messages on whatsapp using Python. I just implemented an already available code. But in the process, I ran into quite a bit of errors and working through them felt like an accomplishment since I spent about 2 hours on it.  Also solved a challenge related to JS.
+
+**Thoughts**: Ofcourse, the routine of just solving problems in python is getting to me. However, I was also a bit intimidated by the increasing level of difficulty. So that's the real reason that I am bailing on HackerRank CTCI. 
+
+### Day 30: March 16th, 2018
+
+**Today's Goal**: Set up the chrome extension with authentication and database with user information. Start brushing up C/C++. 
+
+**Today's Progress**:   
+
+**Thoughts**:
+
+### Day 31: March 17th, 2018
+
+**Today's Goal**: Complete the problem on Tries contacts in Python.   
+
+**Today's Progress**:   
+
+**Thoughts**:
+
+
+
+
+
+
 
 
 
