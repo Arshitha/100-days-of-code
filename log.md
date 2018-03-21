@@ -314,17 +314,50 @@
 
 **Today's Goal**: Set up the chrome extension with authentication and database with user information. Start brushing up C/C++. 
 
-**Today's Progress**:   
+**Today's Progress**: Looked into a bit of information. Researched on google authentication. Had issues with Application ID.
 
-**Thoughts**:
+**Thoughts**: It wasn't much. Not good enough progress. 
 
 ### Day 31: March 17th, 2018
 
 **Today's Goal**: Complete the problem on Tries contacts in Python.   
 
-**Today's Progress**:   
+**Today's Progress**: Implemented it using nesting dictionaries but got wrong counts since it was counting the number of subdictionaries instead of the number of words with the same partial. 
 
-**Thoughts**:
+**Thoughts**: Debugged it for a while. Then went through discussions but in vain. Still have a mind block towards hard problems.
+
+### Day 32: March 18th, 2018
+
+**Today's Goal**: Complete the problem on Tries contacts in Python.   
+
+**Today's Progress**: Implemented it using nesting dictionaries but got wrong counts since it was counting the number of subdictionaries instead of the number of words with the same partial. 
+
+**Thoughts**: Debugged it for a while. Then went through discussions but in vain. Still have a mind block towards hard problems.
+
+### Day 33: March 19th, 2018
+
+**Today's Goal**: Figuring out how to get data points such as data created etc from the URL    
+
+**Today's Progress**: After a lot of trial and error and research we found the WHOIS server API that produces a JSON with all of the information about the domain and it's host.  
+
+**Thoughts**: There wasn't much of coding. It was more of understanding how HTTP requests are handled and how to access data from the api and make it dynamic.
+
+### Day 34: March 20th, 2018
+
+**Today's Goal**: MongoDB database setting up and learning about how to create and manipulate collections.     
+
+**Today's Progress**: Went over the DB tutorials offered on the Udemy web development course. Implemented the examples taught. Learned how to create and manipulate collections.
+
+**Thoughts**: This was good progress and didn't take longer than 1.5 hours to finish the tutorials, set up and play around with. I am now comfortable working with Databases in the sense that I am confident about setting up and debugging any errors in the process. 
+
+### Day 35: March 21st, 2018
+
+**Today's Goal**: Automate the process of generating JSON files given a list of URLs. Tries problem completion.   
+
+**Today's Progress**:  
+
+**Thoughts**: 
+
 
 
 
