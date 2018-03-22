@@ -354,6 +354,14 @@
 
 **Today's Goal**: Automate the process of generating JSON files given a list of URLs. Tries problem completion.   
 
+**Today's Progress**: Automated generating JSON given list of URLs. Couldn't finish tries problem. 
+
+**Thoughts**: Not happy. I am sapped out by the end of the day don't feel like sitting and solving an extra problem. 
+
+### Day 36: March 22nd, 2018
+
+**Today's Goal**: Tries.    
+
 **Today's Progress**:  
 
 **Thoughts**: 
