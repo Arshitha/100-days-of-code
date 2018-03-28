@@ -386,9 +386,19 @@
 
 **Today's Goal**: Actual bit manipulation alternative code. Read the article on Towards Data Science blog post about various algorithms used in data science.    
 
-**Today's Progress**:   
+**Today's Progress**: Done with both of them. Bookmarked the article on Medium. 
+
+**Thoughts**: Again, this was something to gain momentum. Also, to start working towards data science rather than Software Engineering.
+
+### Day 40: March 28th, 2018
+
+**Today's Goal**: Write an article on Medium about 40th day of 100 days of code. Start off with data science tutorials on Udemy. 4 lectures, 9, 10, 11 and 13 with summary updated on GitHub. 
+
+**Today's Progress**:  
 
 **Thoughts**: 
+
+
 
 
 
