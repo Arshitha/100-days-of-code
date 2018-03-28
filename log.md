@@ -362,9 +362,41 @@
 
 **Today's Goal**: Tries.    
 
-**Today's Progress**:  
+**Today's Progress**: It worked for a few test cases and timed out on the rest. Mostly coz dictionary within dictionary implementation is inefficient. 
+
+**Thoughts**: Was happy with the progress because I sat with the problem and debugged it. 
+
+### Day 37: March 23rd, 2018
+
+**Today's Goal**: A challenge on HackerRank    
+
+**Today's Progress**: Worked on a easy level problem in the CTCI track. Bit manipulation. 
+
+**Thoughts**: It was a simple challenge that didn't take very long. The purpose was to motivate myself from not being able to solve the tries problem. 
+
+### Day 38: March 24th, 2018
+
+**Today's Goal**: Tries.    
+
+**Today's Progress**: Debugging and made a few changes. Erratic program behaviour.  
+
+**Thoughts**: I have been stuck with this problem for quite sometime now and it's annoying and frustrating as F.
+
+### Day 39: March 27th, 2018
+
+**Today's Goal**: Actual bit manipulation alternative code. Read the article on Towards Data Science blog post about various algorithms used in data science.    
+
+**Today's Progress**:   
 
 **Thoughts**: 
+
+
+
+
+
+
+
+
 
 
 
