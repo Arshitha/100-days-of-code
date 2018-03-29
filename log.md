@@ -394,6 +394,14 @@
 
 **Today's Goal**: Write an article on Medium about 40th day of 100 days of code. Start off with data science tutorials on Udemy. 4 lectures, 9, 10, 11 and 13 with summary updated on GitHub. 
 
+**Today's Progress**: Finished the lectures and added brief notes within the code itself. Didn't write the article on Medium. 
+
+**Thoughts**: That was good progress specially after having a gruelling day at college. 
+
+### Day 41: March 29th, 2018
+
+**Today's Goal**: 2 lectures 14 and 15 with summary updated on GitHub. 
+
 **Today's Progress**:  
 
 **Thoughts**: 
