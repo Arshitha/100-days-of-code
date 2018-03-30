@@ -402,6 +402,14 @@
 
 **Today's Goal**: 2 lectures 14 and 15 with summary updated on GitHub. 
 
+**Today's Progress**: Done both. 
+
+**Thoughts**: I can correlate whatever I learnt on Andrew Ng's course and use it with python and it's powerful packages. This holds a lot of value in terms of industry relevance. 
+
+### Day 42: March 30th, 2018
+
+**Today's Goal**: 2 lectures 16 and 17 with summary updated on GitHub. And a quiz. 
+
 **Today's Progress**:  
 
 **Thoughts**: 
