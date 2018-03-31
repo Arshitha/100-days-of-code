@@ -410,9 +410,19 @@
 
 **Today's Goal**: 2 lectures 16 and 17 with summary updated on GitHub. And a quiz. 
 
-**Today's Progress**:  
+**Today's Progress**: Done.
+
+**Thoughts**: decent job. Didn't learn anyhting substantial.
+
+### Day 43: March 31st, 2018
+
+**Today's Goal**: 5 lectures 19 to 23 with summary updated on GitHub. 
+
+**Today's Progress**: 
 
 **Thoughts**: 
+
+
 
 
 
