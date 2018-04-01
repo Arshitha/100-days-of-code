@@ -418,10 +418,17 @@
 
 **Today's Goal**: 5 lectures 19 to 23 with summary updated on GitHub. 
 
-**Today's Progress**: 
+**Today's Progress**: Done and committed on GitHub. 
+
+**Thoughts**: Feels repetitive in terms of concepts. But I'm enjoying the coding part of it. 
+
+### Day 44: April 1st, 2018
+
+**Today's Goal**: Finish Simple linear regression and take the quiz.  
+
+**Today's Progress**:  
 
 **Thoughts**: 
-
 
 
 
