@@ -426,6 +426,14 @@
 
 **Today's Goal**: Finish Simple linear regression and take the quiz.  
 
+**Today's Progress**: Done with it. Visualizations were fun to implement. 
+
+**Thoughts**: Small progress everybody combines to greater results. 
+
+### Day 45: April 2nd, 2018
+
+**Today's Goal**: Lectures 32-36  
+
 **Today's Progress**:  
 
 **Thoughts**: 
