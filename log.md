@@ -439,6 +439,14 @@
 **Thoughts**: Learnt about the dummy variable trap and assumptions that are taken 
 for granted while modeling a linear regression model.
 
+### Day 46: April 3rd, 2018
+
+**Today's Goal**: Lectures 37 and 38.  
+
+**Today's Progress**:  
+
+**Thoughts**: 
+
 
 
 
