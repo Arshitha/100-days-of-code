@@ -434,9 +434,10 @@
 
 **Today's Goal**: Lectures 32-36  
 
-**Today's Progress**:  
+**Today's Progress**: Completed the 5 lectures and summarized them. 
 
-**Thoughts**: 
+**Thoughts**: Learnt about the dummy variable trap and assumptions that are taken 
+for granted while modeling a linear regression model.
 
 
 
