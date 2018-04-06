@@ -443,9 +443,44 @@ for granted while modeling a linear regression model.
 
 **Today's Goal**: Lectures 37 and 38.  
 
-**Today's Progress**:  
+**Today's Progress**: Learnt about p-value and the methods used for feature selection such backward elimination, forward selection and bidirectional elimination. 
+
+**Thoughts**: Even after having a crazy day at college, I'm able to learn new things beyond coursework. 
+
+### Day 47: April 4th, 2018
+
+**Today's Goal**: Lectures 39 and 40.  
+
+**Today's Progress**: First two steps on multiple linear regression implementations. 
+
+**Thoughts**: Decent progress. Low energy levels at the end of the day. 
+
+### Day 48: April 5th, 2018
+
+**Today's Goal**: Lectures 41 and 42.  
+
+**Today's Progress**: Revised p-value concept and finished the one of the two lectures.  
+
+**Thoughts**: I was exhausted and again, low energy levels. It'd be better get done with this in the morning instead rather than night. 
+
+### Day 49: April 6th, 2018
+
+**Today's Goal**: Lectures 42, 43, 44, 45 and quiz.  
+
+**Today's Progress**: 
 
 **Thoughts**: 
+
+## Day 50: April 7th, 2018
+
+**Today's Goal**: Review the concepts learned in Machine Learning A-Z. 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+
+
 
 
 
