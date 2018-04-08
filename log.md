@@ -467,17 +467,26 @@ for granted while modeling a linear regression model.
 
 **Today's Goal**: Lectures 42, 43, 44, 45 and quiz.  
 
-**Today's Progress**: 
+**Today's Progress**: Just finished 42 and 43.
 
-**Thoughts**: 
+**Thoughts**: Pretty slow progress. Incomplete work. 
 
 ## Day 50: April 7th, 2018
 
 **Today's Goal**: Review the concepts learned in Machine Learning A-Z. 
 
-**Today's Progress**: 
+**Today's Progress**: Completed 44, 45 and partially reviewed whatever learned. 
+
+**Thoughts**: I spent almost an hour and a half. Little bit of debugging too.
+
+## Day 51: April 8th, 2018
+
+**Today's Goal**: Review, recall and implement automated backward elimination. 
+
+**Today's Progress**:  
 
 **Thoughts**: 
+
 
 
 
