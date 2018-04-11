@@ -483,9 +483,48 @@ for granted while modeling a linear regression model.
 
 **Today's Goal**: Review, recall and implement automated backward elimination. 
 
-**Today's Progress**:  
+**Today's Progress**: Spent the entire day working on URL Analyser project. Quite a bit of JS programming. 
 
-**Thoughts**: 
+**Thoughts**: Even though I didn't work on the ML part of things. I sat with web development for over 10 hours. 
+
+## Day 52: April 9th, 2018
+
+**Today's Goal**: Review the concepts learned in Machine Learning A-Z. 
+
+**Today's Progress**: Completed 44, 45 and partially reviewed whatever learned. 
+
+**Thoughts**: I spent almost an hour and a half. Little bit of debugging too.
+
+## Day 53: April 10th, 2018
+
+**Today's Goal**: Review the concepts learned in Machine Learning A-Z. 
+
+**Today's Progress**: Did one lecture on polynomial regression. 
+
+**Thoughts**: I was exhausted so couldn't do much, but I did work on something. 
+
+## Day 54: April 11th, 2018
+
+**Today's Goal**: Review the concepts learned in Machine Learning A-Z.
+
+**Today's Progress**: Reviewed the previous content and completed the preprocessing part of Polynomial Regression.  
+
+**Thoughts**: Good job. 
+
+## Day 55: April 12th, 2018
+
+**Today's Goal**: Finish the next 3 lectures on Poly Reg
+
+**Today's Progress**:   
+
+**Thoughts**:
+
+
+
+
+
+
+
 
 
 
