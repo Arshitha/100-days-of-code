@@ -515,9 +515,25 @@ for granted while modeling a linear regression model.
 
 **Today's Goal**: Finish the next 3 lectures on Poly Reg
 
-**Today's Progress**:   
+**Today's Progress**: DIDN'T CODE.
 
-**Thoughts**:
+**Thoughts**: DIDN'T CODE.
+
+## Day 55: April 13th, 2018
+
+**Today's Goal**: Finish the next 3 lectures on Poly Reg
+
+**Today's Progress**: Completed the 3 lectures. 
+
+**Thoughts**: Pretty good. 
+
+## Day 56: April 14th, 2018
+
+**Today's Goal**: Finish SVR.
+
+**Today's Progress**: 
+
+**Thoughts**: 
 
 
 
