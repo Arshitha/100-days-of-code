@@ -1,4 +1,4 @@
-## Restarting 100 days of code
+## 100 days of code - Round 1
 
 ### Day 1: February 14, 2018
 
