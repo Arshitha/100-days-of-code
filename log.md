@@ -531,9 +531,19 @@ for granted while modeling a linear regression model.
 
 **Today's Goal**: Finish SVR.
 
-**Today's Progress**: 
+**Today's Progress**: DIDN'T DO IT.
 
-**Thoughts**: 
+**Thoughts**: DIDN'T DO IT.
+
+
+## Day 56: April 15th, 2018
+
+**Today's Goal**: Finish SVR.
+
+**Today's Progress**: Huge topic. Had 
+
+**Thoughts**: DIDN'T DO IT.
+
 
 
 
