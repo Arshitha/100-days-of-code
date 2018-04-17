@@ -536,13 +536,29 @@ for granted while modeling a linear regression model.
 **Thoughts**: DIDN'T DO IT.
 
 
-## Day 56: April 15th, 2018
+## Day 57: April 15th, 2018
 
 **Today's Goal**: Finish SVR.
 
-**Today's Progress**: Huge topic. Had 
+**Today's Progress**: Huge topic. Had to research quite a bit understand the intuition behind SVR. The provided material seemed quite advanced. Watched videos on coursera's ML course and understood high level overview of what SVM does. 
 
 **Thoughts**: DIDN'T DO IT.
+
+## Day 58: April 16th, 2018
+
+**Today's Goal**: Understand the mathematics behind of SVM. 
+
+**Today's Progress**:DIDN'T DO IT.
+
+**Thoughts**: DIDN'T DO IT.
+
+## Day 58: April 17th, 2018
+
+**Today's Goal**: Understand the mathematics behind SVM.
+
+**Today's Progress**: Done with the video on coursera. 
+
+**Thoughts**: Not bad. 
 
 
 
