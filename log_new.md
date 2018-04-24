@@ -457,10 +457,95 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: Pretty good. 
 
-### Day 56: April 14th, 2018
+## Day 56: April 14th, 2018
 
 **Today's Goal**: Finish SVR.
+
+**Today's Progress**: DIDN'T DO IT.
+
+**Thoughts**: DIDN'T DO IT.
+
+
+## Day 57: April 15th, 2018
+
+**Today's Goal**: Finish SVR.
+
+**Today's Progress**: Huge topic. Had to research quite a bit understand the intuition behind SVR. The provided material seemed quite advanced. Watched videos on coursera's ML course and understood high level overview of what SVM does. 
+
+**Thoughts**: Theoretical. No coding. 
+
+## Day 58: April 16th, 2018
+
+**Today's Goal**: Understand the mathematics behind of SVM. (https://www.coursera.org/learn/machine-learning/lecture/3eNnh/mathematics-behind-large-margin-classification)
+
+**Today's Progress**: Done. 
+
+**Thoughts**: Understood the mathematical basics. Not very concrete yet. 
+
+## Day 59: April 17th, 2018
+
+**Today's Goal**: Implement SVR from ML A-Z on python. 
+
+**Today's Progress**: DIDN'T DO IT.  
+
+**Thoughts**: DIDN'T DO IT.  
+
+## Day 60: April 18th, 2018
+
+**Today's Goal**: Twitter data being imported to mongodb database
+
+**Today's Progress**: Done. 
+
+**Thoughts**: It was fun to tweak the code and see the imported data on the mongo shell. 
+
+## Day 61: April 19th, 2018
+
+**Today's Goal**: Data preprocessing and summary statistics for Intl cloud transactions project and understanding the data provided. 
+
+**Today's Progress**: Finished data preprocessing but couldn't complete or get summary statistics. 
+
+**Thoughts**: I could put whatever I have learnt in ML A-Z to use for the project. I enjoyed it. 
+
+## Day 62: April 20th, 2018
+
+**Today's Goal**: Understand the data provided and how to correlate them to produce a ML model. 
+
+**Today's Progress**: Done and preprocessed some of the required data.
+
+**Thoughts**: Was pretty annoying to make those correlations. That kinda made me anxious. 
+
+## Day 63: April 21st, 2018
+
+**Today's Goal**: DIDN'T CODE
+
+**Today's Progress**: DIDN'T CODE  
+
+**Thoughts**: DIDN'T CODE
+
+## Day 64: April 22nd, 2018
+
+**Today's Goal**: SVR implementation from the ML a-z series. 
+
+**Today's Progress**: Partially committed.  
+
+**Thoughts**: Not completely into it. 
+
+## Day 65: April 23rd, 2018
+
+**Today's Goal**: SVR completion
+
+**Today's Progress**: Done. 
+
+**Thoughts**: Got an idea of SVR implementation and how it doesn't take into account outliers but gave a good prediction for the data point we needed.  
+
+## Day 64: April 24th, 2018
+
+**Today's Goal**: 
 
 **Today's Progress**: 
 
 **Thoughts**: 
+
+
+
+
