@@ -457,7 +457,7 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: Pretty good. 
 
-## Day 56: April 14th, 2018
+### Day 56: April 14th, 2018
 
 **Today's Goal**: Finish SVR.
 
@@ -466,7 +466,7 @@ for granted while modeling a linear regression model.
 **Thoughts**: DIDN'T DO IT.
 
 
-## Day 57: April 15th, 2018
+### Day 57: April 15th, 2018
 
 **Today's Goal**: Finish SVR.
 
@@ -474,7 +474,7 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: Theoretical. No coding. 
 
-## Day 58: April 16th, 2018
+### Day 58: April 16th, 2018
 
 **Today's Goal**: Understand the mathematics behind of SVM. (https://www.coursera.org/learn/machine-learning/lecture/3eNnh/mathematics-behind-large-margin-classification)
 
@@ -482,7 +482,7 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: Understood the mathematical basics. Not very concrete yet. 
 
-## Day 59: April 17th, 2018
+### Day 59: April 17th, 2018
 
 **Today's Goal**: Implement SVR from ML A-Z on python. 
 
@@ -490,7 +490,7 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: DIDN'T DO IT.  
 
-## Day 60: April 18th, 2018
+### Day 60: April 18th, 2018
 
 **Today's Goal**: Twitter data being imported to mongodb database
 
@@ -498,7 +498,7 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: It was fun to tweak the code and see the imported data on the mongo shell. 
 
-## Day 61: April 19th, 2018
+### Day 61: April 19th, 2018
 
 **Today's Goal**: Data preprocessing and summary statistics for Intl cloud transactions project and understanding the data provided. 
 
@@ -506,7 +506,7 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: I could put whatever I have learnt in ML A-Z to use for the project. I enjoyed it. 
 
-## Day 62: April 20th, 2018
+### Day 62: April 20th, 2018
 
 **Today's Goal**: Understand the data provided and how to correlate them to produce a ML model. 
 
@@ -514,7 +514,7 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: Was pretty annoying to make those correlations. That kinda made me anxious. 
 
-## Day 63: April 21st, 2018
+### Day 63: April 21st, 2018
 
 **Today's Goal**: DIDN'T CODE
 
@@ -522,7 +522,7 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: DIDN'T CODE
 
-## Day 64: April 22nd, 2018
+### Day 64: April 22nd, 2018
 
 **Today's Goal**: SVR implementation from the ML a-z series. 
 
@@ -530,7 +530,7 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: Not completely into it. 
 
-## Day 65: April 23rd, 2018
+### Day 65: April 23rd, 2018
 
 **Today's Goal**: SVR completion
 
@@ -538,7 +538,7 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: Got an idea of SVR implementation and how it doesn't take into account outliers but gave a good prediction for the data point we needed.  
 
-## Day 64: April 24th, 2018
+### Day 64: April 24th, 2018
 
 **Today's Goal**: Implemented decision tree regression along with intuition.
 
@@ -546,7 +546,7 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: Found the concept quite interesting. Understood the intuition behind the model, not the mathematics behind it though. 
 
-## Day 65: April 25th, 2018
+### Day 65: April 25th, 2018
 
 **Today's Goal**: Complete the decision tree implementation. 
 
@@ -554,8 +554,7 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: Understood the erractic behaviour and fixed it (with help from tutorial). 
 
-
-## Day 66: April 26th, 2018
+### Day 66: April 26th, 2018
 
 **Today's Goal**: International Cloud Transactions project. Finish basic analytics and write a script to be used by the api. 
 
@@ -563,7 +562,7 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: Good progress. Sat through the day to understand the data, pre-process it and write a function that automates the process. Good hands-on experience on data-cleaning part of things and understood it's importance in building good ML models.
 
-## Day 67: April 27th, 2018
+### Day 67: April 27th, 2018
 
 **Today's Goal**: Edit the python script to suit the needs of the api for Intl cloud transactions. 
 
@@ -571,7 +570,7 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: Wasn't much but fun nevertheless. Understood the needs of the api sub-team and edited my code to suit their needs without much struggle. 
 
-## Day 68: April 28th, 2018
+### Day 68: April 28th, 2018
 
 **Today's Goal**: URL Analyser: the list of urls from the extension need to be stored in the database. 
 
@@ -579,7 +578,7 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: Lots of learning with a small headway. I feel I'm getting closer to making the communication possible. 
 
-## Day 69: April 29th, 2018
+### Day 69: April 29th, 2018
 
 **Today's Goal**: Reading the documentation and then try to use background.js and content.js in transferring data from popup.js to an .ejs file through ajax calls. 
 
