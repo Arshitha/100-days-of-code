@@ -540,11 +540,54 @@ for granted while modeling a linear regression model.
 
 ## Day 64: April 24th, 2018
 
-**Today's Goal**: 
+**Today's Goal**: Implemented decision tree regression along with intuition.
+
+**Today's Progress**: partially completed.
+
+**Thoughts**: Found the concept quite interesting. Understood the intuition behind the model, not the mathematics behind it though. 
+
+## Day 65: April 25th, 2018
+
+**Today's Goal**: Complete the decision tree implementation. 
+
+**Today's Progress**: completed,however, still need to add comments and document it clearly. 
+
+**Thoughts**: Understood the erractic behaviour and fixed it (with help from tutorial). 
+
+
+## Day 66: April 26th, 2018
+
+**Today's Goal**: International Cloud Transactions project. Finish basic analytics and write a script to be used by the api. 
+
+**Today's Progress**: Understood the documentation on metric_ids, extracted, cleaned and processed it to do simple analytics. Wrote script to suit the api functionality.  
+
+**Thoughts**: Good progress. Sat through the day to understand the data, pre-process it and write a function that automates the process. Good hands-on experience on data-cleaning part of things and understood it's importance in building good ML models.
+
+## Day 67: April 27th, 2018
+
+**Today's Goal**: Edit the python script to suit the needs of the api for Intl cloud transactions. 
+
+**Today's Progress**: Done. 
+
+**Thoughts**: Wasn't much but fun nevertheless. Understood the needs of the api sub-team and edited my code to suit their needs without much struggle. 
+
+## Day 68: April 28th, 2018
+
+**Today's Goal**: URL Analyser: the list of urls from the extension need to be stored in the database. 
+
+**Today's Progress**: Made redirection to a webpage from the extension possible and watched a ton of tutorials to understand jQuery and embedded javascript that'll make the communication between extension and the database possible.
+
+**Thoughts**: Lots of learning with a small headway. I feel I'm getting closer to making the communication possible. 
+
+## Day 69: April 29th, 2018
+
+**Today's Goal**: Reading the documentation and then try to use background.js and content.js in transferring data from popup.js to an .ejs file through ajax calls. 
 
 **Today's Progress**: 
 
-**Thoughts**: 
+**Thoughts**:   
+
+
 
 
 
