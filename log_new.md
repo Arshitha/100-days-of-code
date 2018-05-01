@@ -582,9 +582,27 @@ for granted while modeling a linear regression model.
 
 **Today's Goal**: Reading the documentation and then try to use background.js and content.js in transferring data from popup.js to an .ejs file through ajax calls. 
 
+**Today's Progress**: Didn't have to do anything so elaborate. Passed the data from popup.js to the local server through jquery ajax calls. 
+
+**Thoughts**: List was being passed to server! Happiness :D
+
+### Day 70: April 30th, 2018
+
+**Today's Goal**: Wrap up URL analyser to establish a continuous workflow. 
+
+**Today's Progress**: Established a continuous workflow between the extension and server.
+
+**Thoughts**: Presented. Can be improved further. Well done though!
+
+### Day 71: May 1st, 2018
+
+**Today's Goal**: 
+
 **Today's Progress**: 
 
-**Thoughts**:   
+**Thoughts**: 
+
+
 
 
 
