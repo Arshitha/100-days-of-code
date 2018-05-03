@@ -602,6 +602,22 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: 
 
+### Day 72: May 2nd, 2018
+
+**Today's Goal**: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+### Day 73: May 3rd, 2018
+
+**Today's Goal**: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
 
 
 
