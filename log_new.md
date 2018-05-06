@@ -596,27 +596,53 @@ for granted while modeling a linear regression model.
 
 ### Day 71: May 1st, 2018
 
-**Today's Goal**: 
+**Today's Goal**: Write documentation for URL Analyser. 
 
-**Today's Progress**: 
+**Today's Progress**: Written up partially. Need to write instructions for setting up nodejs server and mongodb. 
 
-**Thoughts**: 
+**Thoughts**: Kinda boring but I can see the usefulness of documentation. 
 
 ### Day 72: May 2nd, 2018
 
-**Today's Goal**: 
+**Today's Goal**: Political Bias Analyser code review. 
 
-**Today's Progress**: 
+**Today's Progress**: Cloned their repo and loaded the extension. Tried out the extension, however, realized that it was the previous version. Still made a few observations and set up the outline for the code review ppt. 
 
-**Thoughts**: 
+**Thoughts**: Pretty good. I could see what was extended of our project and how much more we could improve our project as well. 
 
 ### Day 73: May 3rd, 2018
 
-**Today's Goal**: 
+**Today's Goal**: Finish writing documentation for our project.
 
-**Today's Progress**: 
+**Today's Progress**: Done. 
+
+**Thoughts**: Feels good. 
+
+### Day 74: May 4th, 2018
+
+**Today's Goal**: Complete the code review and resolve issues with pushing local commits to github repo. 
+
+**Today's Progress**: Done and submitted. 
+
+**Thoughts**: Relieved. 
+
+### Day 75: May 5th, 2018
+
+**Today's Goal**: Cleaning up GitHub repo.  
+
+**Today's Progress**: DIDN'T DO ANYTHING RELATED TO CODING.  
+
+**Thoughts**: NEED TO START CODING. DAY NOT COUNTED. 
+
+### Day 76: May 6th, 2018
+
+**Today's Goal**: Resume Machine Learning A-Z. Play around with titanic survival data. 
+
+**Today's Progress**:  
 
 **Thoughts**: 
+
+
 
 
 
