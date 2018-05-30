@@ -634,9 +634,11 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: NEED TO START CODING. DAY NOT COUNTED. 
 
-### Day 76: May 6th, 2018
+### DIDN'T CODE DURING TRAVEL - May 5th to May 29th
 
-**Today's Goal**: Resume Machine Learning A-Z. Play around with titanic survival data. 
+### Day 76: May 29th
+
+**Today's Goal**: Learn about git branches and other stuff.  
 
 **Today's Progress**:  
 
