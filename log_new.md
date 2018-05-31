@@ -636,13 +636,22 @@ for granted while modeling a linear regression model.
 
 ### DIDN'T CODE DURING TRAVEL - May 5th to May 29th
 
-### Day 76: May 29th
+### Day 76: May 29th, 2018
 
-**Today's Goal**: Learn about git branches and other stuff.  
+**Today's Goal**: Learn about git branches and other stuff. 
+
+**Today's Progress**: Done. Finished a challenge on the SQL track on hackerrank. 
+
+**Thoughts**: Not bad. 
+
+### Day 77: May 30th, 2018
+
+**Today's Goal**: Work on titanic dataset on Kaggle and one sql challenge.  
 
 **Today's Progress**:  
 
-**Thoughts**: 
+**Thoughts**:  
+
 
 
 
