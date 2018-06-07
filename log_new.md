@@ -656,9 +656,55 @@ for granted while modeling a linear regression model.
 
 **Today's Goal**: Work on titanic dataset on Kaggle and sql challenge. 
 
-**Today's Progress**: 
+**Today's Progress**: Finished a couple of sql challenges. Not on titanic dataset. 
 
-**Thoughts**:  
+**Thoughts**: not bad. 
+
+### Day 79: June 4th, 2018
+
+**Today's Goal**: Work on titanic dataset on Kaggle and sql challenge. 
+
+**Today's Progress**: Finished one sql challenge and worked on another that required regex. 
+
+**Thoughts**: not bad.
+
+### Day 80: June 5th, 2018
+
+**Today's Goal**: Work on titanic dataset on Kaggle and sql challenge. 
+
+**Today's Progress**: Read about regex. 
+
+**Thoughts**: okayish. 
+
+### Day 81: June 6th, 2018
+
+**Today's Goal**: Work on titanic dataset on Kaggle and sql challenge. 
+
+**Today's Progress**: Just looked at aws lambda code. 
+
+**Thoughts**: okayish. 
+
+### Day 82: June 7th, 2018
+
+**Today's Goal**: Work on titanic dataset on Kaggle and sql challenge. 
+
+**Today's Progress**:  Finished sql challenge requiring regex. Understood only that particular use case scenario. 
+
+**Thoughts**: not bad. 
+
+### Day 83: June 8th, 2018
+
+**Today's Goal**: Work on titanic dataset on Kaggle and sql challenge. 
+
+**Today's Progress**:   
+
+**Thoughts**: 
+
+
+
+
+
+
 
 
 
