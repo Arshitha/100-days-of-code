@@ -696,9 +696,21 @@ for granted while modeling a linear regression model.
 
 **Today's Goal**: Work on titanic dataset on Kaggle and sql challenge. 
 
-**Today's Progress**:   
+**Today's Progress**: completed 3 sql challenges. 
 
-**Thoughts**: 
+**Thoughts**: Not bad. 
+
+### DIDN'T CODE DURING TRAVEL - June 9th to June 12th - Personal Reasons
+
+### Day 84: June 13th, 2018
+
+**Today's Goal**: Code anything. 
+
+**Today's Progress**: completed 2 sql chanllenges and one 30-days-of-code python. 
+
+**Thoughts**: Pretty good. I had fun after a long time. 
+
+
 
 
 
