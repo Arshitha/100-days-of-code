@@ -714,13 +714,9 @@ for granted while modeling a linear regression model.
 
 **Today's Goal**: Code anything. 
 
-**Today's Progress**: completed one python 30-days challenge.  
+**Today's Progress**: completed one python 30-days and one sql challenge.  
 
 **Thoughts**: Pretty good. 
-
-
-
-
 
 
 
