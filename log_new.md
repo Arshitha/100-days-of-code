@@ -708,7 +708,15 @@ for granted while modeling a linear regression model.
 
 **Today's Progress**: completed 2 sql chanllenges and one 30-days-of-code python. 
 
-**Thoughts**: Pretty good. I had fun after a long time. 
+**Thoughts**: Pretty good. I had fun after a long time.
+
+### Day 85: June 14th, 2018
+
+**Today's Goal**: Code anything. 
+
+**Today's Progress**: completed one python 30-days challenge.  
+
+**Thoughts**: Pretty good. 
 
 
 
