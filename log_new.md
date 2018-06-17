@@ -718,6 +718,23 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: Pretty good. 
 
+### Day 86: June 15th, 2018
+
+**Today's Goal**: Code anything. 
+
+**Today's Progress**: one sql challenge.  
+
+**Thoughts**: not bad.
+
+### Day 87: June 16th, 2018
+
+**Today's Goal**: Code anything. 
+
+**Today's Progress**: one sql challenge.  
+
+**Thoughts**: not bad.
+
+
 
 
 
