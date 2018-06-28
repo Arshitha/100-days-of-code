@@ -718,22 +718,37 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: Pretty good. 
 
-### Day 86: June 28th, 2018
+### Day 86: June 15th, 2018
 
 **Today's Goal**: Code anything. 
 
-**Today's Progress**: tried one 30 days of code challenge. Easy but couldn't finish it. some test cases failing.  
+**Today's Progress**: one sql challenge.  
 
-**Thoughts**: good try. 
+**Thoughts**: not bad.
 
-### Day 87: June 29th, 2018
+### Day 87: June 16th, 2018
 
 **Today's Goal**: Code anything. 
 
-**Today's Progress**: finish yesterday's challenge. 
+**Today's Progress**: one sql challenge.  
 
-**Thoughts**:  
+**Thoughts**: not bad.
 
+### Day 88: June 28th, 2018
+
+**Today's Goal**: Code anything. 
+
+**Today's Progress**: tried one 30 days of code python challenge.  
+
+**Thoughts**: good try. just keeping solving one simple problem everyday. 
+
+### Day 89: June 29th, 2018
+
+**Today's Goal**: Code anything. 
+
+**Today's Progress**: complete yesterday's challenge. 
+
+**Thoughts**: 
 
 
 
