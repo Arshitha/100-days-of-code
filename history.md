@@ -1,4 +1,74 @@
-## 100 days of code - Round 1
+# 100 Days Of Code - Round 1
+
+### Day 0: January 2, 2018
+
+**Today's Progress**: Finished Python HackerRank Day 14 and Day 15 challenge 
+
+**Thoughts:** Day 14: I was trying to understand the significance of double and single underscores. Took more than required time to complete the challenge. Day 15: It was frustrating to get it to work. I was missing the key aspect of taking into account adding a node to the tail when there were more than two nodes. 
+
+**Link to work:** HackerRank-30-days-of-Python/Day14_Scope.py
+
+## Restarting 100 days of code
+
+### Day 0: January 22, 2018
+
+**Today's Goal**: Review Data structures and algorithms concepts
+
+**Today's Progress**: Runtime analysis. Solved 10 Examples on Big-O notation from cracking from the coding interview.
+
+**Thoughts**: It helped fill gaps in my understanding of analysing runtime of algorithms. Need to increase solving speed.
+
+## Restarting 100 days of code
+
+### Day 1: January 28, 2018
+
+**Today's Goal** : Solve 15 problems from cracking the coding interview. One hacker rank python challenge. 
+
+**Today's Progress**: Completed 10 problems in cracking the coding interview.  Finally completed the Day 17 python challenge on exceptions. 
+
+**Thoughts**: Taking a long time. Low confidence in the final answer that I arrive at. More exceptions not fully understood. 
+
+### Day 2: January 29, 2018
+
+**Today's Goal**: One python challenge. 5 questions from cracking the coding interview. Learn about twitter APIs and how to use them. 
+
+**Today's Progress**: Finished one python challenge on Hacker Rank. Researched about twitter APIs.
+
+**Thoughts**: Implementation of stacks and queues using lists in pyhton 3. Found an elaborate article on mining twitter data using the API. Implemented the code to collect tweets given the handle. 
+
+### Day 3: January 30, 2018
+
+**Today's Goal** : 10 questions from cracking the coding interview. Download images given a twitter handle. 
+
+**Today's Progress** : Did 5 problems from cracking the coding interview. Learnt how to work with APIs and Webhooks. https://www.youtube.com/watch?v=oBW_VNg4qD0
+
+**Thoughts**: None
+
+### Day 4:January 31, 2018
+
+**Today's Goal**: Download images given a twitter handle. 
+
+**Today's Progress**: Downloaded images using tweepy. Created a video from the downloaded images using ffmpeg after pre processing.
+
+**Thoughts**: It was fun to finally get it work. 
+
+### Day 5: February 1, 2018
+
+**Today's Goal**: Solve a programming problem from cracking the coding interview.
+
+**Today's Progress**: NONE
+
+**Thoughts**: NONE
+
+### Day 6: February 2, 2018
+
+**Today's Goal**: Solve a programming problem from cracking the coding interview.
+
+**Today's Progress**: NONE 
+
+**Thoughts**: NONE
+
+## Restarting 100 days of code
 
 ### Day 1: February 14, 2018
 
@@ -401,7 +471,7 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: Pretty slow progress. Incomplete work. 
 
-### Day 50: April 7th, 2018
+## Day 50: April 7th, 2018
 
 **Today's Goal**: Review the concepts learned in Machine Learning A-Z. 
 
@@ -409,7 +479,7 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: I spent almost an hour and a half. Little bit of debugging too.
 
-### Day 51: April 8th, 2018
+## Day 51: April 8th, 2018
 
 **Today's Goal**: Review, recall and implement automated backward elimination. 
 
@@ -417,7 +487,7 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: Even though I didn't work on the ML part of things. I sat with web development for over 10 hours. 
 
-### Day 52: April 9th, 2018
+## Day 52: April 9th, 2018
 
 **Today's Goal**: Review the concepts learned in Machine Learning A-Z. 
 
@@ -425,7 +495,7 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: I spent almost an hour and a half. Little bit of debugging too.
 
-### Day 53: April 10th, 2018
+## Day 53: April 10th, 2018
 
 **Today's Goal**: Review the concepts learned in Machine Learning A-Z. 
 
@@ -433,7 +503,7 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: I was exhausted so couldn't do much, but I did work on something. 
 
-### Day 54: April 11th, 2018
+## Day 54: April 11th, 2018
 
 **Today's Goal**: Review the concepts learned in Machine Learning A-Z.
 
@@ -441,7 +511,7 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: Good job. 
 
-### Day 55: April 12th, 2018
+## Day 55: April 12th, 2018
 
 **Today's Goal**: Finish the next 3 lectures on Poly Reg
 
@@ -449,7 +519,7 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: DIDN'T CODE.
 
-### Day 55: April 13th, 2018
+## Day 55: April 13th, 2018
 
 **Today's Goal**: Finish the next 3 lectures on Poly Reg
 
@@ -457,7 +527,7 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: Pretty good. 
 
-### Day 56: April 14th, 2018
+## Day 56: April 14th, 2018
 
 **Today's Goal**: Finish SVR.
 
@@ -466,306 +536,28 @@ for granted while modeling a linear regression model.
 **Thoughts**: DIDN'T DO IT.
 
 
-### Day 57: April 15th, 2018
+## Day 57: April 15th, 2018
 
 **Today's Goal**: Finish SVR.
 
 **Today's Progress**: Huge topic. Had to research quite a bit understand the intuition behind SVR. The provided material seemed quite advanced. Watched videos on coursera's ML course and understood high level overview of what SVM does. 
 
-**Thoughts**: Theoretical. No coding. 
+**Thoughts**: DIDN'T DO IT.
 
-### Day 58: April 16th, 2018
+## Day 58: April 16th, 2018
 
-**Today's Goal**: Understand the mathematics behind of SVM. (https://www.coursera.org/learn/machine-learning/lecture/3eNnh/mathematics-behind-large-margin-classification)
+**Today's Goal**: Understand the mathematics behind of SVM. 
 
-**Today's Progress**: Done. 
+**Today's Progress**:DIDN'T DO IT.
 
-**Thoughts**: Understood the mathematical basics. Not very concrete yet. 
+**Thoughts**: DIDN'T DO IT.
 
-### Day 59: April 17th, 2018
+## Day 58: April 17th, 2018
 
-**Today's Goal**: Implement SVR from ML A-Z on python. 
+**Today's Goal**: Understand the mathematics behind SVM.
 
-**Today's Progress**: DIDN'T DO IT.  
-
-**Thoughts**: DIDN'T DO IT.  
-
-### Day 60: April 18th, 2018
-
-**Today's Goal**: Twitter data being imported to mongodb database
-
-**Today's Progress**: Done. 
-
-**Thoughts**: It was fun to tweak the code and see the imported data on the mongo shell. 
-
-### Day 61: April 19th, 2018
-
-**Today's Goal**: Data preprocessing and summary statistics for Intl cloud transactions project and understanding the data provided. 
-
-**Today's Progress**: Finished data preprocessing but couldn't complete or get summary statistics. 
-
-**Thoughts**: I could put whatever I have learnt in ML A-Z to use for the project. I enjoyed it. 
-
-### Day 62: April 20th, 2018
-
-**Today's Goal**: Understand the data provided and how to correlate them to produce a ML model. 
-
-**Today's Progress**: Done and preprocessed some of the required data.
-
-**Thoughts**: Was pretty annoying to make those correlations. That kinda made me anxious. 
-
-### Day 63: April 21st, 2018
-
-**Today's Goal**: DIDN'T CODE
-
-**Today's Progress**: DIDN'T CODE  
-
-**Thoughts**: DIDN'T CODE
-
-### Day 64: April 22nd, 2018
-
-**Today's Goal**: SVR implementation from the ML a-z series. 
-
-**Today's Progress**: Partially committed.  
-
-**Thoughts**: Not completely into it. 
-
-### Day 65: April 23rd, 2018
-
-**Today's Goal**: SVR completion
-
-**Today's Progress**: Done. 
-
-**Thoughts**: Got an idea of SVR implementation and how it doesn't take into account outliers but gave a good prediction for the data point we needed.  
-
-### Day 64: April 24th, 2018
-
-**Today's Goal**: Implemented decision tree regression along with intuition.
-
-**Today's Progress**: partially completed.
-
-**Thoughts**: Found the concept quite interesting. Understood the intuition behind the model, not the mathematics behind it though. 
-
-### Day 65: April 25th, 2018
-
-**Today's Goal**: Complete the decision tree implementation. 
-
-**Today's Progress**: completed,however, still need to add comments and document it clearly. 
-
-**Thoughts**: Understood the erractic behaviour and fixed it (with help from tutorial). 
-
-### Day 66: April 26th, 2018
-
-**Today's Goal**: International Cloud Transactions project. Finish basic analytics and write a script to be used by the api. 
-
-**Today's Progress**: Understood the documentation on metric_ids, extracted, cleaned and processed it to do simple analytics. Wrote script to suit the api functionality.  
-
-**Thoughts**: Good progress. Sat through the day to understand the data, pre-process it and write a function that automates the process. Good hands-on experience on data-cleaning part of things and understood it's importance in building good ML models.
-
-### Day 67: April 27th, 2018
-
-**Today's Goal**: Edit the python script to suit the needs of the api for Intl cloud transactions. 
-
-**Today's Progress**: Done. 
-
-**Thoughts**: Wasn't much but fun nevertheless. Understood the needs of the api sub-team and edited my code to suit their needs without much struggle. 
-
-### Day 68: April 28th, 2018
-
-**Today's Goal**: URL Analyser: the list of urls from the extension need to be stored in the database. 
-
-**Today's Progress**: Made redirection to a webpage from the extension possible and watched a ton of tutorials to understand jQuery and embedded javascript that'll make the communication between extension and the database possible.
-
-**Thoughts**: Lots of learning with a small headway. I feel I'm getting closer to making the communication possible. 
-
-### Day 69: April 29th, 2018
-
-**Today's Goal**: Reading the documentation and then try to use background.js and content.js in transferring data from popup.js to an .ejs file through ajax calls. 
-
-**Today's Progress**: Didn't have to do anything so elaborate. Passed the data from popup.js to the local server through jquery ajax calls. 
-
-**Thoughts**: List was being passed to server! Happiness :D
-
-### Day 70: April 30th, 2018
-
-**Today's Goal**: Wrap up URL analyser to establish a continuous workflow. 
-
-**Today's Progress**: Established a continuous workflow between the extension and server.
-
-**Thoughts**: Presented. Can be improved further. Well done though!
-
-### Day 71: May 1st, 2018
-
-**Today's Goal**: Write documentation for URL Analyser. 
-
-**Today's Progress**: Written up partially. Need to write instructions for setting up nodejs server and mongodb. 
-
-**Thoughts**: Kinda boring but I can see the usefulness of documentation. 
-
-### Day 72: May 2nd, 2018
-
-**Today's Goal**: Political Bias Analyser code review. 
-
-**Today's Progress**: Cloned their repo and loaded the extension. Tried out the extension, however, realized that it was the previous version. Still made a few observations and set up the outline for the code review ppt. 
-
-**Thoughts**: Pretty good. I could see what was extended of our project and how much more we could improve our project as well. 
-
-### Day 73: May 3rd, 2018
-
-**Today's Goal**: Finish writing documentation for our project.
-
-**Today's Progress**: Done. 
-
-**Thoughts**: Feels good. 
-
-### Day 74: May 4th, 2018
-
-**Today's Goal**: Complete the code review and resolve issues with pushing local commits to github repo. 
-
-**Today's Progress**: Done and submitted. 
-
-**Thoughts**: Relieved. 
-
-### Day 75: May 5th, 2018
-
-**Today's Goal**: Cleaning up GitHub repo.  
-
-**Today's Progress**: DIDN'T DO ANYTHING RELATED TO CODING.  
-
-**Thoughts**: NEED TO START CODING. DAY NOT COUNTED. 
-
-### DIDN'T CODE DURING TRAVEL - May 5th to May 29th
-
-### Day 76: May 30th, 2018
-
-**Today's Goal**: Learn about git branches and other stuff. 
-
-**Today's Progress**: Done. Finished a challenge on the SQL track on hackerrank. 
+**Today's Progress**: Done with the video on coursera. 
 
 **Thoughts**: Not bad. 
-
-### Day 77: May 31st, 2018
-
-**Today's Goal**: Work on titanic dataset on Kaggle and one sql challenge.  
-
-**Today's Progress**: Finished 2 sql challenges but couldn't look into titantic dataset. 
-
-**Thoughts**: Not bad.  
-
-### Day 78: June 1st, 2018
-
-**Today's Goal**: Work on titanic dataset on Kaggle and sql challenge. 
-
-**Today's Progress**: Finished a couple of sql challenges. Not on titanic dataset. 
-
-**Thoughts**: not bad. 
-
-### Day 79: June 4th, 2018
-
-**Today's Goal**: Work on titanic dataset on Kaggle and sql challenge. 
-
-**Today's Progress**: Finished one sql challenge and worked on another that required regex. 
-
-**Thoughts**: not bad.
-
-### Day 80: June 5th, 2018
-
-**Today's Goal**: Work on titanic dataset on Kaggle and sql challenge. 
-
-**Today's Progress**: Read about regex. 
-
-**Thoughts**: okayish. 
-
-### Day 81: June 6th, 2018
-
-**Today's Goal**: Work on titanic dataset on Kaggle and sql challenge. 
-
-**Today's Progress**: Just looked at aws lambda code. 
-
-**Thoughts**: okayish. 
-
-### Day 82: June 7th, 2018
-
-**Today's Goal**: Work on titanic dataset on Kaggle and sql challenge. 
-
-**Today's Progress**:  Finished sql challenge requiring regex. Understood only that particular use case scenario. 
-
-**Thoughts**: not bad. 
-
-### Day 83: June 8th, 2018
-
-**Today's Goal**: Work on titanic dataset on Kaggle and sql challenge. 
-
-**Today's Progress**: completed 3 sql challenges. 
-
-**Thoughts**: Not bad. 
-
-### DIDN'T CODE DURING TRAVEL - June 9th to June 12th - Personal Reasons
-
-### Day 84: June 13th, 2018
-
-**Today's Goal**: Code anything. 
-
-**Today's Progress**: completed 2 sql chanllenges and one 30-days-of-code python. 
-
-**Thoughts**: Pretty good. I had fun after a long time.
-
-### Day 85: June 14th, 2018
-
-**Today's Goal**: Code anything. 
-
-**Today's Progress**: completed one python 30-days and one sql challenge.  
-
-**Thoughts**: Pretty good. 
-
-### Day 86: June 15th, 2018
-
-**Today's Goal**: Code anything. 
-
-**Today's Progress**: one sql challenge.  
-
-**Thoughts**: not bad.
-
-### Day 87: June 16th, 2018
-
-**Today's Goal**: Code anything. 
-
-**Today's Progress**: one sql challenge.  
-
-**Thoughts**: not bad.
-
-### Day 88: June 28th, 2018
-
-**Today's Goal**: Code anything. 
-
-**Today's Progress**: tried one 30 days of code python challenge.  
-
-**Thoughts**: good try. just keeping solving one simple problem everyday. 
-
-### Day 89: June 29th, 2018
-
-**Today's Goal**: Code anything. 
-
-**Today's Progress**: complete yesterday's challenge. 
-
-**Thoughts**: 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
