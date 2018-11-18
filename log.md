@@ -752,17 +752,17 @@ for granted while modeling a linear regression model.
 
 ## 100 days of code - Round 2
 
-### Day 0: August 6th, 2018
+### Day 0: November 17th, 2018
 
-**Today's Goal**: One set of sqlzoo tutorial questions (Data Engineer Profile)
+**Today's Goal**: Set up repo and push photoshare progress
 
-**Today's Progress**: Finished the nobel.sql set of questions
+**Today's Progress**: had to add new ssh key to push changes. Took a while to figure that out. 
 
-**Thoughts**: Pretty good. This was tougher than basics and world set. sqlzoo.net
+**Thoughts**: Set up ready to start off. 
 
-### Day 1: August 7th, 2018
+### Day 1: November 18th, 2018
 
-**Today's Goal**: Start looking into titanic dataset (Data Scientist Profile)
+**Today's Goal**: Fix the add_friends and friends functionality. 
 
 **Today's Progress**: 
 
