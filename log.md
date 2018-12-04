@@ -760,13 +760,31 @@ for granted while modeling a linear regression model.
 
 **Thoughts**: Set up ready to start off. 
 
-### Day 1: November 18th, 2018
+### Day 1: December 2nd, 2018
 
-**Today's Goal**: Fix the add_friends and friends functionality. 
+**Today's Goal**: Finish preprocessing of jigsaw data
+
+**Today's Progress**: Found kaggle notebook on cleaning up data for toxic comment classification. And started off practicing the methods that can be used for preprocessing the data. 
+
+**Thoughts**: decent job given the circumstances. 
+
+### Day 2: December 3rd, 2018
+
+**Today's Goal**: Finish preprocessing of jigsaw data
+
+**Today's Progress**: Implemented most of the steps from the found kaggle notebook by understanding the code and reimplementing it. 
+
+**Thoughts**: decent job given the circumstances. 
+
+### Day 3: December 4th, 2018
+
+**Today's Goal**: 
 
 **Today's Progress**: 
 
-**Thoughts**:
+**Thoughts**: 
+
+
 
  
 
