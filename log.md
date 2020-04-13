@@ -1,3 +1,15 @@
+## 100 days of code - Round 2
+
+### Day 1: April 13th, 2020
+
+**Today's Goal**: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+
+
 ## 100 days of code - Round 1
 
 ### Day 1: February 14, 2018
